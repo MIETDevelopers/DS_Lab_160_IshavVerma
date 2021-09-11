@@ -38,7 +38,7 @@ int main()
             case 2:
                 t = clock();
                 MergeSort(Array0, 0, ( max- 1));
-                printf("The sorted array is\n");
+                printf("The sorted array is:");
                 printArray(Array0 , max);
                 sleep(1);
                 t = clock() - t;
