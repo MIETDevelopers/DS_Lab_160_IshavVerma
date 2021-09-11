@@ -148,5 +148,5 @@ void printArray(int *arr, int size)
 }
 /*
 Reason why Merge sort is fast than Bubble sort:
-Merge-sort needs an auxiliary array (extra space) to sort and cause more memory access & gives a faster response. Bubble sort may perform better for small data set but for larger data Merge Sort is preffered.
+Merge sort needs an auxiliary array (extra space) to sort and cause more memory access & gives a faster response. Bubble sort may perform better for small data set but for larger data Merge Sort is preferred.
 */
